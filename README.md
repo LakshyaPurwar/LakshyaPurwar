@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @LakshyaPurwar
+- 👋 Hi, I’m Lakshya Purwar
 - 👀 I’m interested in building high utility products that can simplify the world.
-- 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💻 I am a full stack web developer.
+- 🌱 I’m currently learning ui/ux.
+- 📫 Reach me at: purwarlakshya@gmail.com
