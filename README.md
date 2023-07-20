@@ -16,7 +16,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LakshyaPurwar&theme=blue-green&hide_border=true)
 <span>                                   </span>![](https://github-readme-stats.vercel.app/api/top-langs/?username=LakshyaPurwar&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LakshyaPurwar&bg_color=040f0f&color=fd21ee&line=1f99c1&point=f240dd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
