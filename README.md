@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lakshya Purwar
 - 👀 I’m interested in building high utility products that can simplify the world.
 - 💻 I am a full stack web developer.
-- 🌱 I’m currently learning ui/ux.
+- 🌱 I’m currently learning React Native
 - 📫 Reach me at: purwarlakshya@gmail.com
 
 
